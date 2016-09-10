@@ -1,0 +1,10 @@
+Please complete this exercise:
+
+1.       If you do not already have one, create a GitHub profile account so they can create code on the GitHub site. It is free.
+2.       Create a single page with text input
+2.       Allow user to enter a GitHub user name
+3.       Using GitHub’s public API, make a request to pull back valid repositories for that user
+4.       Display user repository information (if applicable) on the page
+
+Choice of libraries or frameworks (if any?), JavaScript version (or superset), styling and validation is up to you.
+
